@@ -24,7 +24,7 @@ We are able to align the content inside grid areas, and the grid tracks themselv
 
 ## Aligning items on the Block Axis
 
-The {{cssxref("align-self")}} and {{cssxref("align-items")}} properties control alignment on the block axis. When we use these properties, we are changing the alignment of the item within the grid area you have placed it.
+The {{cssxref("align-self")}} and {{cssxref("align-items")}} properties control alignment on the block axis. When we use these properties, we are changing the alignment of the item within the grid area in which you have placed it.
 
 ### Using align-items
 
